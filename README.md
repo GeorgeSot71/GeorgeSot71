@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Software Engineer<br>🎓 Electrical and Computer Engineering NTUA graduate, specialization in Computer Science<br>🌱 Interested in developer productivity, AI-assisted workflows, platform infrastructure and technical leadership in fast-moving engineering teams
+👩‍💻 Software Engineer<br>🎓 Electrical and Computer Engineering, MEng (NTUA), specialization in Computer Science<br>🌱 Interested in developer productivity, AI-assisted workflows, platform infrastructure and technical leadership in fast-moving engineering teams
 
 
 # 💻 Languages, Frameworks and Tools:
